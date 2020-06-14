@@ -1,0 +1,9 @@
+// Task No.1
+alert("Error! Please enter a valid password");
+
+// Task No.2
+alert("Welcome to JS Land... \n Happy Coding!");
+
+// Task No.3
+alert("Welcome to JS Land...");
+confirm("Prevent this page from creating additional dialogs.")
